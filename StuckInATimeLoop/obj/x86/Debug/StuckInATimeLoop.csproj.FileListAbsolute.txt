@@ -1,0 +1,6 @@
+/Users/brandonbarnette/Desktop/Practice C# Kattis/StuckInATimeLoop/bin/Debug/StuckInATimeLoop.exe
+/Users/brandonbarnette/Desktop/Practice C# Kattis/StuckInATimeLoop/bin/Debug/StuckInATimeLoop.pdb
+/Users/brandonbarnette/Desktop/Practice C# Kattis/StuckInATimeLoop/obj/x86/Debug/StuckInATimeLoop.csprojResolveAssemblyReference.cache
+/Users/brandonbarnette/Desktop/Practice C# Kattis/StuckInATimeLoop/obj/x86/Debug/StuckInATimeLoop.csproj.CoreCompileInputs.cache
+/Users/brandonbarnette/Desktop/Practice C# Kattis/StuckInATimeLoop/obj/x86/Debug/StuckInATimeLoop.exe
+/Users/brandonbarnette/Desktop/Practice C# Kattis/StuckInATimeLoop/obj/x86/Debug/StuckInATimeLoop.pdb
